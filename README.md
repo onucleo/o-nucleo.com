@@ -95,4 +95,5 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * etc.
 
 
-# o-nucleo.com
+---
+⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
