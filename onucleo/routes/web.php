@@ -11,6 +11,8 @@
 |
 */
 
+include dirname(__FILE__)."/rotas_anos.php";
+
 Route::get('/', function () {
     return view('welcome');
 });
@@ -18,4 +20,16 @@ Route::get('/', function () {
 Route::get('/teste', function () {
     return "aopa";
 });
-include dirname(__FILE__)."/rotas_anos.php";
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
