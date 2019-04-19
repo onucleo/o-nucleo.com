@@ -36,7 +36,7 @@ class AnosPeriodoController extends Controller {
 	}
 
 	public function baixarConteudo() {
-		return "isso é um get pra baixar alguma coisa caso queiram"
+		return "isso é um get pra baixar alguma coisa caso queiram";
 		// Aqui é um função pra baixar os arquivos caso estejam guardados em blobs no
 		// BD, recuperar o arquivo e enviar como download
 	}
