@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/30741312/56408398-b37e1f80-624a-11e9-8b48-bc3a3afd1c6f.png">
+</p>
+
 # **Site - O NÚCLEO**
 
 Criado em meados do primeiro ciclo de 2018 **O Núcleo** é uma entidade identitária composta por Discentes do [curso de Bacharelado em Ciência da Computação][UFRPE] que surgiu pela necessidade de se suprir as deficiências sociais enfrentadas no ambiente acadêmico, tanto quanto para ceifar a doutrina de recorrentes declives ao recurso de avaliação, da prática de desenvolver disciplina, de recolher conhecimento específicos e gerais em volta da Computação.
