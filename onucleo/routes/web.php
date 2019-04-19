@@ -18,3 +18,4 @@ Route::get('/', function () {
 Route::get('/teste', function () {
     return "aopa";
 });
+include dirname(__FILE__)."/rotas_anos.php";
